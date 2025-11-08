@@ -1,9 +1,7 @@
 # Exercícios Práticos – Threads em Java
 Disciplina: **Sistemas Operacionais – 2025/2**  
 
-Este repositório contém a resolução dos 3 exercícios práticos do documento:
-
-**"Exercícios Práticos – Threads"**
+Este repositório contém a resolução dos 3 exercícios práticos.
 
 Cada exercício está em uma pasta separada.
 
